@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:sans-serif;
+}
+
+.header {
+    background-color: rgb(35, 58, 85);
+    height: 80px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.nav {
+
+    display:flex;
+    justify-content: space-between;
+
+}
+
+#nav-link {
+
+    color: #fff;
+    text-decoration: none;
+}
