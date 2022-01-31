@@ -28,3 +28,16 @@ body {
     color: #fff;
     text-decoration: none;
 }
+
+/*.nav-menu-linkt {
+
+    color: rgb(224, 13, 13);
+    font-family: "Helvetica Neue";
+}*/
+
+.logo{
+    font-size:30px;
+    font-weight: bold;
+    padding: 0 40px;
+    line-height: 80px ;
+}
